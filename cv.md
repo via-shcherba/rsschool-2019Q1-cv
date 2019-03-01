@@ -1,5 +1,7 @@
 ##SHCHERBA VIACHASLAU##
 
+![my foto](https://github.com/via-shcherba/rsschool-2019Q1-cv/blob/gh-pages/foto.JPG)
+
 ####CONTACTS####
 
 |      phone    |        e-mail         |
